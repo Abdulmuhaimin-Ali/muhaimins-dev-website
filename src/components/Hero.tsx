@@ -43,7 +43,7 @@ const Hero = () => {
 
         {/* Title */}
         <p className="text-lg md:text-xl text-primary-foreground/80 font-body font-light mb-8 animate-fade-up-delay-2">
-          Backend Developer
+          Full-Stack Engineer
         </p>
 
         {/* Social Links */}
