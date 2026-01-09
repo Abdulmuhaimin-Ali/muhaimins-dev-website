@@ -8,27 +8,17 @@ const AboutSection = () => {
 
         <div className="space-y-6 text-muted-foreground font-body leading-relaxed mt-8">
           <p className="text-lg">
-            Hey there! I'm a passionate backend developer with a love for
-            creating beautiful, performant web applications. With over{" "}
-            <span className="text-foreground font-medium">
-              2 years of internship experience
-            </span>
-            , I've worked with startups and enterprises to bring their ideas to
-            life.
+            I’m a backend-focused software engineer with experience building and scaling production systems across cloud-native environments. I’ve worked with both startups and enterprise teams, delivering performance-critical APIs, distributed caching, event-driven services, and secure web applications.
+
+
           </p>
 
           <p>
-            My journey started with curiosity about how websites work, and it
-            evolved into a career building everything from e-commerce platforms
-            to AI-powered applications. I believe in writing clean, maintainable
-            code and creating experiences that users genuinely enjoy.
+            My work spans everything from optimizing backend response times and designing scalable REST architectures to building AI-powered tools and serverless systems used in real-world workflows. I care deeply about clean architecture, maintainable code, and solving problems that matter at scale.
           </p>
 
           <p>
-            When I'm not coding, you'll find me exploring new technologies,
-            contributing to open-source projects, or sharing knowledge through
-            blog posts and mentoring. I'm always excited to take on new
-            challenges and collaborate with like-minded individuals.
+            Outside of work, I enjoy building and shipping side projects, competing in hackathons, and exploring new technologies in cloud infrastructure, distributed systems, and AI. I’m always excited to collaborate with engineers who value ownership, impact, and continuous improvement.
           </p>
 
           <div className="flex flex-wrap gap-3 pt-4">
@@ -50,3 +40,10 @@ const AboutSection = () => {
 };
 
 export default AboutSection;
+
+
+I’m a backend-focused software engineer with experience building and scaling production systems across cloud-native environments. I’ve worked with both startups and enterprise teams, delivering performance-critical APIs, distributed caching, event-driven services, and secure web applications.
+
+My work spans everything from optimizing backend response times and designing scalable REST architectures to building AI-powered tools and serverless systems used in real-world workflows. I care deeply about clean architecture, maintainable code, and solving problems that matter at scale.
+
+Outside of work, I enjoy building and shipping side projects, competing in hackathons, and exploring new technologies in cloud infrastructure, distributed systems, and AI. I’m always excited to collaborate with engineers who value ownership, impact, and continuous improvement.
