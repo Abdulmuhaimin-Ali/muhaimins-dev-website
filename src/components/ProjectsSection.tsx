@@ -27,7 +27,6 @@ const projects = [
       "https://stellarix.com/wp-content/uploads/2025/08/food-as-medicine-scaled.webp",
     technologies: ["React", "OpenAI", "Python", "Prisma"],
     github: "https://github.com/Abdulmuhaimin-Ali/cook-smart",
-    live: "https://example.com",
   },
   {
     title: "Fund Fraud Detection",
@@ -37,7 +36,6 @@ const projects = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIbEyoMMRcDFMqTRfOBwwueWuI5rx5aGye3g&s",
     technologies: ["Python", "OpenAI", "React", "Prisma"],
     github: "https://github.com/Abdulmuhaimin-Ali/fund-fraud-detection",
-    live: "https://example.com",
     // deploy
   },
 ];
