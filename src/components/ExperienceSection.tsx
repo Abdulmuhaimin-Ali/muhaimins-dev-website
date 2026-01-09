@@ -20,7 +20,7 @@ const experiences = [
   {
     company: "Big Blue Bubble",
     role: "QA Engineer Intern",
-    period: "Sep. 2022 - Dec. 2022",
+    period: "Sep. 2022 - Apr. 2023",
     description:
       "Conducted comprehensive testing for mobile games, identified bugs, and collaborated with developers to enhance game quality and user experience.",
     technologies: ["Playwright", "Jest", "Selenium"],

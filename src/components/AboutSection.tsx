@@ -8,11 +8,14 @@ const AboutSection = () => {
 
         <div className="space-y-6 text-muted-foreground font-body leading-relaxed mt-8">
           <p className="text-lg">
-            I’m a backend-focused software engineer with experience building and
-            scaling production systems across cloud-native environments. I’ve
-            worked with both startups and enterprise teams, delivering
-            performance-critical APIs, distributed caching, event-driven
-            services, and secure web applications.
+            I’m a backend-focused software engineer with{" "}
+            <span>
+              <strong> 2+ years of internship experience</strong>
+            </span>{" "}
+            experience building and scaling production systems across
+            cloud-native environments. I’ve worked with both startups and
+            enterprise teams, delivering performance-critical APIs, distributed
+            caching, event-driven services, and secure web applications.
           </p>
 
           <p>
