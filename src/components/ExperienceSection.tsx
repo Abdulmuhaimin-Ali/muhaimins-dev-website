@@ -3,7 +3,7 @@ import { Building2 } from "lucide-react";
 const experiences = [
   {
     company: "Carfax",
-    role: "Backend Developer",
+    role: "Software Engineer Intern",
     period: "Sep. 2025 - Dec. 2025",
     description:
       "Developed and optimized backend services for high-traffic applications, collaborated with cross-functional teams to design scalable solutions, and ensured system reliability and performance.",
@@ -11,7 +11,7 @@ const experiences = [
   },
   {
     company: "OEConnection",
-    role: "Full-Stack Developer",
+    role: "Software Developer Intern",
     period: "Jan. 2025 - May. 2025",
     description:
       "Built and maintained multiple client-facing applications, implemented CI/CD pipelines, and contributed to product strategy.",
@@ -19,7 +19,7 @@ const experiences = [
   },
   {
     company: "Big Blue Bubble",
-    role: "QA Tester",
+    role: "QA Engineer Intern",
     period: "Sep. 2022 - Dec. 2022",
     description:
       "Conducted comprehensive testing for mobile games, identified bugs, and collaborated with developers to enhance game quality and user experience.",
